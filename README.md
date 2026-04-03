@@ -66,7 +66,7 @@ For deployment (Streamlit Cloud), add the key in Secrets.
 
 ### **Run the App**
 streamlit run ui.py
-
+```bash
 ## Use Cases
 ###1. Rapid code prototyping
 ###2. Automated test generation
