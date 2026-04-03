@@ -41,30 +41,6 @@ The system is powered by NVIDIA-hosted LLMs and includes a **premium interactive
 - NVIDIA LLM API (NIM)
 - OpenAI-compatible SDK
 
----
-
-## ⚙️ Setup Instructions
-
-### **Clone the Repository**
-
-git clone https://github.com/your-username/multi-agent-developer.git
-cd multi-agent-developer
-
-### **Install Dependencies**
-
-```bash
-pip install -r requirements.txt
-
-### **Configure API Key**
-
-For local setup, create a .env file:
-```bash
-API_KEY=your_api_key_here
-
-For deployment (Streamlit Cloud), add the key in Secrets.
-
-### **Run the App**
-streamlit run ui.py
 
 ## Use Cases
 ###1. Rapid code prototyping
