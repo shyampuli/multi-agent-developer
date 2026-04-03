@@ -6,7 +6,7 @@ A GenAI-powered system that simulates a real-world software engineering team usi
 
 ## Live Demo
 
-🔗 **[Try the app here:](https://multi-agent-developer-hs2fszzhhexxrtt7b4ecpk.streamlit.app/)**  
+🔗 **(https://multi-agent-developer-hs2fszzhhexxrtt7b4ecpk.streamlit.app/)**  
 
 
 ---
