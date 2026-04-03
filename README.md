@@ -43,8 +43,8 @@ The system is powered by NVIDIA-hosted LLMs and includes a **premium interactive
 
 
 ## Use Cases
-###1. Rapid code prototyping
-###2. Automated test generation
-###3. Learning software development workflows
-###4. Hackathon and demo projects
-###5. AI-assisted development pipelines
+- 1. Rapid code prototyping
+- 2. Automated test generation
+- 3. Learning software development workflows
+- 4. Hackathon and demo projects
+- 5. AI-assisted development pipelines
