@@ -47,7 +47,6 @@ The system is powered by NVIDIA-hosted LLMs and includes a **premium interactive
 
 ### **Clone the Repository**
 
-```bash
 git clone https://github.com/your-username/multi-agent-developer.git
 cd multi-agent-developer
 
@@ -66,7 +65,7 @@ For deployment (Streamlit Cloud), add the key in Secrets.
 
 ### **Run the App**
 streamlit run ui.py
-```bash
+
 ## Use Cases
 ###1. Rapid code prototyping
 ###2. Automated test generation
